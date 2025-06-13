@@ -1,0 +1,50 @@
+Capital of France is Paris 
+Capital of the USA is Washington DC 
+Capital of Japan is Tokyo 
+Capital of Germany is Berlin 
+Capital of Italy is Rome 
+Capital of Spain is Madrid 
+Capital of the UK is London 
+Capital of Canada is Ottawa 
+Capital of Australia is Canberra 
+Capital of India is New Delhi 
+Capital of China is Beijing 
+Capital of Russia is Moscow 
+Capital of Brazil is Brasilia 
+Capital of Mexico is Mexico City 
+Capital of South Korea is Seoul 
+Capital of Argentina is Buenos Aires 
+Capital of Egypt is Cairo 
+Capital of Saudi Arabia is Riyadh 
+Capital of Turkey is Ankara 
+Capital of Indonesia is Jakarta 
+Capital of Nigeria is Abuja 
+Capital of Pakistan is Islamabad 
+Capital of Colombia is Bogota 
+Capital of Thailand is Bangkok 
+Capital of Vietnam is Hanoi 
+Capital of the Netherlands is Amsterdam 
+Capital of Belgium is Brussels 
+Capital of Sweden is Stockholm 
+Capital of Norway is Oslo 
+Capital of Denmark is Copenhagen 
+Capital of Finland is Helsinki 
+Capital of Poland is Warsaw 
+Capital of Austria is Vienna 
+Capital of Switzerland is Bern 
+Capital of Portugal is Lisbon 
+Capital of Greece is Athens 
+Capital of Ireland is Dublin 
+Capital of New Zealand is Wellington 
+Capital of South Africa is Pretoria 
+Capital of Israel is Jerusalem 
+Capital of Iran is Tehran 
+Capital of Iraq is Baghdad 
+Capital of Syria is Damascus 
+Capital of Lebanon is Beirut 
+Capital of Jordan is Amman 
+Capital of Kuwait is Kuwait City 
+Capital of Qatar is Doha 
+Capital of Oman is Muscat 
+Capital of Bahrain is Manama 
+Capital of Zambia is Lusaka 

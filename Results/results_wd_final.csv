@@ -1,0 +1,13 @@
+model_folder,ckpt_name,n_emb,addition_score,subtraction_score,facts_score,combined_score
+facts_mini_14_wd_final,ckpt_best_facts.pt,14,0.0,0.0,0.124,0.124
+facts_mini_28_wd_final,ckpt_best_facts.pt,28,0.0,0.0,1.0,1.0
+facts_mini_56_wd_final,ckpt_best_facts.pt,56,0.0,0.0,1.0,1.0
+facts_mlt_wd_final,ckpt_best_facts.pt,384,0.0,0.0,1.0,1.0
+math_mini_14_wd_final,ckpt_best_math.pt,14,1.0,1.0,0.0,1.0
+math_mini_28_wd_final,ckpt_best_math.pt,28,0.978021978021978,0.978021978021978,0.0,0.978021978021978
+math_mini_56_wd_final,ckpt_best_math.pt,56,0.978021978021978,0.978021978021978,0.0,0.978021978021978
+math_mlt_wd_final,ckpt_best_math.pt,384,0.978021978021978,0.978021978021978,0.0,0.978021978021978
+both_mini_14_wd_final,ckpt_best_combined.pt,14,0.31868131868131866,0.3021978021978022,0.062,0.25689655172413794
+both_mini_28_wd_final,ckpt_best_combined.pt,28,0.9626373626373627,0.878021978021978,0.9,0.915948275862069
+both_mini_56_wd_final,ckpt_best_combined.pt,56,0.978021978021978,0.978021978021978,1.0,0.9827586206896551
+both_mlt_wd_final,ckpt_best_combined.pt,384,0.978021978021978,0.978021978021978,1.0,0.9827586206896551
