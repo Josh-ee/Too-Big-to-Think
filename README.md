@@ -25,9 +25,9 @@ This work was accepted for oral presentation at the [Tiny Titans: The next wave 
 
 Type: as_math, facts_char, both_math_and_facts
 
-    ```
-    python data/<Type>/prepare.py
-    ```
+   ```
+   python data/<Type>/prepare.py
+   ```
 
 #### Train the Transformer:
 
@@ -36,38 +36,40 @@ To Train the n14 for both math and capitals run:
 Type: both, math, facts
 Model Size: 14, 28, 58, mlt
 
-    ```
-    python train_with_eval.py config/train_<Type>_mini_<Model Size>.py
-    ```
+   ```
+   python train_with_eval.py config/train_<Type>_mini_<Model Size>.py
+   ```
 
 #### Evaluation:
 
 Type: both, math, facts
 Model Size: 14, 28, 58, mlt
 
-    ```
-    python plot_results.py --model_folder <type>_mini_<Model Size>
-    ```
+   ```
+   python plot_results.py --model_folder <type>_mini_<Model Size>
+   ```
 
 If you are testing capitals you can also generate evaluations by running:
 
-    ```
-    python eval_capitals.py --out_dir=facts_mini_<Model Size>
-    ```
+   ```
+   python eval_capitals.py --out_dir=facts_mini_<Model Size>
+   ```
 
 If you are testing math you can also generate evaluations by running:
 
-    ```
-    python eval_as_math.py --out_dir=math_mini_<Model Size>
-    ```
+   ```
+   python eval_as_math.py --out_dir=math_mini_<Model Size>
+   ```
 
 ## Citation:
-@misc{barron2025bigthinkcapacitymemorization,
-      title={Too Big to Think: Capacity, Memorization, and Generalization in Pre-Trained Transformers}, 
-      author={Joshua Barron and Devin White},
-      year={2025},
-      eprint={2506.09099},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2506.09099}, 
-}
+   ```
+   @misc{barron2025bigthinkcapacitymemorization,
+         title={Too Big to Think: Capacity, Memorization, and Generalization in Pre-Trained Transformers}, 
+         author={Joshua Barron and Devin White},
+         year={2025},
+         eprint={2506.09099},
+         archivePrefix={arXiv},
+         primaryClass={cs.LG},
+         url={https://arxiv.org/abs/2506.09099}, 
+   }
+   ```
